@@ -1,15 +1,28 @@
 {
   "files": {
-    "main.css": "/website_react/static/css/main.921759e8.css",
-    "main.js": "/website_react/static/js/main.dd87133b.js",
-    "static/js/453.a6a97343.chunk.js": "/website_react/static/js/453.a6a97343.chunk.js",
+    "main.css": "/website_react/static/css/main.8ab908d8.css",
+    "main.js": "/website_react/static/js/main.744bf2fb.js",
+    "static/media/img_id11.jpeg": "/website_react/static/media/img_id11.2926400c3172707ee97c.jpeg",
+    "static/media/img_id06.jpg": "/website_react/static/media/img_id06.b017d93c79094c5c1181.jpg",
+    "static/media/img_id02.jpg": "/website_react/static/media/img_id02.958fdddbd55b375b8c1f.jpg",
+    "static/media/img_id12.jpg": "/website_react/static/media/img_id12.79356781880bc1300f69.jpg",
+    "static/media/img_id04.jpg": "/website_react/static/media/img_id04.cc8e9273c87a22c9519d.jpg",
+    "static/media/img_id10.png": "/website_react/static/media/img_id10.673ff5cbdacc37e462fe.png",
+    "static/media/act_img.jpg": "/website_react/static/media/act_img.a8b75c62b10ae3bca7cd.jpg",
+    "static/media/img_id01.jpg": "/website_react/static/media/img_id01.a99e38815f7ad8170b49.jpg",
+    "static/media/img_id09.jpg": "/website_react/static/media/img_id09.d9b883a74e4f52ffa45f.jpg",
+    "static/media/img_id08.jpg": "/website_react/static/media/img_id08.c83afeae65db78c0d2bf.jpg",
+    "static/media/img_id13.jpg": "/website_react/static/media/img_id13.c803f8b5b779d8ecf6cb.jpg",
+    "static/media/img_id03.jpg": "/website_react/static/media/img_id03.350807a93906768b241c.jpg",
+    "static/media/my_img.jpg": "/website_react/static/media/my_img.72dd4ba171e112c6a432.jpg",
+    "static/media/my_cp.jpg": "/website_react/static/media/my_cp.f2831fcbe5dc991d75e3.jpg",
+    "static/media/img_id07.jpg": "/website_react/static/media/img_id07.f11da93cb74acbf29d10.jpg",
     "index.html": "/website_react/index.html",
-    "main.921759e8.css.map": "/website_react/static/css/main.921759e8.css.map",
-    "main.dd87133b.js.map": "/website_react/static/js/main.dd87133b.js.map",
-    "453.a6a97343.chunk.js.map": "/website_react/static/js/453.a6a97343.chunk.js.map"
+    "main.8ab908d8.css.map": "/website_react/static/css/main.8ab908d8.css.map",
+    "main.744bf2fb.js.map": "/website_react/static/js/main.744bf2fb.js.map"
   },
   "entrypoints": [
-    "static/css/main.921759e8.css",
-    "static/js/main.dd87133b.js"
+    "static/css/main.8ab908d8.css",
+    "static/js/main.744bf2fb.js"
   ]
 }

@@ -1,0 +1,173 @@
+body{
+  background-color: #282c34;
+}
+
+main{
+  align-items: center;
+  color: white;
+}
+
+h3{
+  vertical-align: top;
+}
+
+nav > button {
+  margin-right: 10px;
+  background-color: rgb(100, 149, 237);
+  cursor: pointer;
+  border: 1px solid #300;
+  border-radius: 20px;
+  border-left: 0;
+  display: block;
+  float: left;
+  height: 48px;
+  line-height: 48px;
+  text-align: center;
+  width: 150px;
+
+  &:hover {
+    color: #300;
+    opacity: 0.5;
+  }
+}
+
+.Main {
+  text-align: center;
+  
+    &_header {
+    /* background-color: #282c34; */
+    min-height: 10vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* justify-content: center; */
+    font-size: 25px;
+    color: white;
+  }
+}
+
+.Line_break {
+  display: block;
+
+}
+
+.Profile {
+  display: block;
+  padding: 30px;
+  // flex-direction: column;
+}
+
+.border_item {
+  border: 1px solid white;
+  width: 50vw;
+  margin: 0 25vw;
+}
+
+.member_profile {
+  margin: 20px 0 20px 0;
+}
+
+.img {
+  object-fit: cover;
+  border-radius:20px;
+
+  &_member {
+    max-width: 300px;
+    aspect-ratio: 1 / 1;
+    width: 100%;
+    height: 100%;
+  }
+
+  &_company {
+    width: 20vw;
+    min-width: 150px;
+    height: 80px;
+  }
+
+  &_pre {
+    width: 20vw;
+
+  }
+}
+
+.fade-in-section {
+  opacity: 0;
+  transform: translateY(20px);
+  transition: opacity 0.8s ease-out, transform 0.8s ease-out;
+
+  &.is-visible {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.to-top-link {
+  color: #61dafb;
+}
+.footer-margin{
+  margin: 20px;
+}
+
+.member_grid{
+  display: inline-table;
+  max-width: 32vw;
+  border-spacing: 30px 0;
+}
+
+.company_float {
+  // float: left;
+  position: sticky;
+  // bottom: 50px;
+  right: 50px;
+  top: 60px;
+}
+
+.test {
+  height: 1500px;
+}
+
+.goal_table {
+  display: flex;
+  padding: 0 2vw;
+  gap: 40px;
+}
+
+.goal_grid {
+  width: 50vw;
+
+  & p {
+    font-size: large;
+    font-weight: 500;
+  }
+
+  .category {
+    text-align: left;
+    font-weight: bold;
+    text-decoration: underline;
+  }
+
+  .goal {
+    text-align: left;
+    // 字下げのため
+    text-indent: -1em;
+    padding-left: 1em;
+
+  }
+}
+
+.void {
+  height: 100px;
+}
+
+.text_bold {
+  font-weight: bold;
+  font-size: large;
+}
+
+.grid_exp {
+  display: flex;
+  width: 90vw;
+  gap: 20px;
+  align-items: center;
+  margin: 0 auto;
+}
